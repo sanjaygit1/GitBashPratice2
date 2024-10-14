@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("hi");
 		
 		//Test case complted
+		//pull git bash
 	}
 
 }
